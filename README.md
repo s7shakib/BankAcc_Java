@@ -14,7 +14,7 @@ This project is a simple Java application that allows users to create and manage
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/bank-account-comparator.git
+    git clone https://github.com/s7shakib/bank-account-comparator.git
     ```
 
 2. Navigate to the project directory:
