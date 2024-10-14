@@ -7,7 +7,7 @@ public class CheckingAccount extends BankAccount{
    private double[] writtenChecks;
    private int noOfChecks;
    
-   //Constructors
+   //Constructor
    public CheckingAccount(String name, double balance){
       super(name, balance);
       
