@@ -1,6 +1,6 @@
 # Bank Account Comparator
 
-This project is a simple Java application that allows users to create and manage savings and checking accounts, and perform transactions such as deposits and withdrawals. The application uses a graphical interface to interact with user.
+This project is a simple Java application that allows users to create and manage savings and checking accounts, and perform transactions such as deposits and withdrawals. The application uses a graphical interface to interact with users.
 
 ## Getting Started
 
